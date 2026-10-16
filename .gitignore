@@ -1,0 +1,10 @@
+venv/
+dataset/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+dataset
